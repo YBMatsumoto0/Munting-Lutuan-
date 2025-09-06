@@ -11,11 +11,11 @@ Features
 
 Getting Started
 
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/YBMatsumoto0/Munting-Lutuan-.git
 cd munting-lutuan
 
-2. Install dependencies:
+Install dependencies:
    
 Frontend:
 cd frontend
@@ -26,12 +26,12 @@ Backend:
 cd backend
 npm install
 
-3. Configure the database:
+Configure the database:
    
 Create a MySQL database
 Update backend/config/db.js with your database credentials
 
-5. Run the app:
+Run the app:
 
 Start backend (from backend/src or backend depending on your structure): npm run dev
 Start frontend: npm start
