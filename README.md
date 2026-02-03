@@ -13,6 +13,7 @@ Munting Lutuan is a food ordering web application built with ReactJS, Node.js, E
 
 Clone the repository:
 git clone https://github.com/YBMatsumoto0/Munting-Lutuan-.git
+
 cd munting-lutuan
 
 Install dependencies:
