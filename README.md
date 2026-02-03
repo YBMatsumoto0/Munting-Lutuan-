@@ -1,6 +1,6 @@
 # Munting Lutuan 
 
-Overview
+## Overview
 Munting Lutuan is a food ordering web application built with ReactJS, Node.js, Express, and MySQL. Customers can place orders in the order form, and admins can manage those orders through a dashboard.
 
 ## Features
