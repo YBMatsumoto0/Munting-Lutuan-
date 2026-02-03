@@ -16,7 +16,7 @@ git clone https://github.com/YBMatsumoto0/Munting-Lutuan-.git
 
 cd munting-lutuan
 
-Install dependencies:
+## Install dependencies:
    
 Frontend:
 cd frontend
@@ -27,18 +27,18 @@ Backend:
 cd backend
 npm install
 
-Configure the database:
+## Configure the database:
    
 Create a MySQL database
 Update backend/config/db.js with your database credentials
 
-Run the app:
+## Run the app:
 
 Start backend (from backend/src or backend depending on your structure): npm run dev
 Start frontend: npm start
 
 
-The app will run at:
+## The app will run at:
 Frontend: http://localhost:3000
 Backend: http://localhost:3006
 
